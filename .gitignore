@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter artefacts
+.ipynb_checkpoints/
+
+# Hidden teacher materials
+.teacher/
+
+# Ignore other hidden files/folders by default
+.*
+!.gitignore
+
